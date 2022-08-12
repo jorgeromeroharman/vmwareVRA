@@ -1,1 +1,0 @@
-def handler(context, inputs):    print("=========INPUTS==================================================================")    print(inputs)        outputs = inputs    print("=========OUTPUTS==================================================================")    print(outputs)    return outputs
